@@ -1,12 +1,18 @@
 ## What is this?
 ----
 
-This is a completed example project that demonstrates how to use React, the Fetch API, Redux-Thunk middleware, and Redux to make API calls to the New York Times and store data in a Redux store. See the [React with APIs course section on LHTP.com](https://www.learnhowtoprogram.com/react/react-with-apis)  for related lessons.
+This is a starter project to use as a template for a project that uses:
+
+* React
+* Redux
+* Redux-Thunk
+
+This template repo is to use with the [React with APIs course section on LHTP.com](https://www.learnhowtoprogram.com/react/react-with-apis)  for related lessons.
 
 ## Project Setup
 ---
 
-You need to set up a `.env` file with your own New York Times key to run this project. Follow the instructions [in this lesson](https://www.learnhowtoprogram.com/react/react-with-apis/making-an-api-call-with-fetch) to get the exact details for getting an NY Times API key and setting up the `.env` file. 
+To install dependencies, run `$ npm run install` in the root directory of the project.
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ---
