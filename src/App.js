@@ -1,12 +1,9 @@
 import React from 'react';
 import './App.css';
-import Headlines from './Headlines';
 
 function App() {
   return (
-    <React.Fragment>
-      < Headlines />
-    </React.Fragment>
+    <h1>Hello World!</h1>
   );
 }
 
