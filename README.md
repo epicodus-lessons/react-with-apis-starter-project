@@ -9,6 +9,8 @@ This is a starter project to use as a template for a project that uses:
 
 This template repo is meant to be used with the lessons in the [React with APIs course section on LHTP.com](https://www.learnhowtoprogram.com/react/react-with-apis).
 
+For an example project that uses this tech, check out this repo: [https://github.com/epicodus-lessons/react-with-apis-ny-times-api-with-redux-thunk](https://github.com/epicodus-lessons/react-with-apis-ny-times-api-with-redux-thunk).
+
 ## Project Setup
 ---
 
